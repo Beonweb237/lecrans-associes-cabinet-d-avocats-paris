@@ -123,6 +123,15 @@ export default function Footer() {
             <a href="#" className="hover:text-navy-300 transition-colors">Mentions legales</a>
             <span>|</span>
             <a href="#" className="hover:text-navy-300 transition-colors">Gestion des cookies</a>
+            <span>|</span>
+            <a
+              href="https://www.beonweb.cm/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-gold-400 transition-colors"
+            >
+              Conçu par Beonweb
+            </a>
           </div>
         </div>
       </div>
