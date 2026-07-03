@@ -50,8 +50,8 @@ const domainOptions = [
 
 const callbackOptions = [
   'Des que possible',
-  'Dans l\u0027heure',
-  'Aujourd\u0027hui',
+  'Dans l\'heure',
+  'Aujourd\'hui',
   'Demain',
 ]
 

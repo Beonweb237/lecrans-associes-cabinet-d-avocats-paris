@@ -34,37 +34,37 @@ const valueCards = [
     icon: Award,
     title: 'Excellence',
     description:
-      'Class\u00e9e parmi les meilleurs cabinets fran\u00e7ais par Chambers Europe et Legal 500. Une r\u00e9putation qui valorise votre parcours professionnel.',
+      'Classée parmi les meilleurs cabinets français par Chambers Europe et Legal 500. Une réputation qui valorise votre parcours professionnel.',
   },
   {
     icon: BookOpen,
-    title: 'D\u00e9veloppement',
+    title: 'Développement',
     description:
-      'Un programme de formation interne ambitieux : veille juridique, s\u00e9minaires sectoriels, pr\u00e9paration aux certifications et mentoring personnalis\u00e9.',
+      'Un programme de formation interne ambitieux : veille juridique, séminaires sectoriels, préparation aux certifications et mentoring personnalisé.',
   },
   {
     icon: Users,
-    title: 'Responsabilit\u00e9',
+    title: 'Responsabilité',
     description:
-      'Une structure \u00e0 taille humaine o\u00f9 chaque collaborateur b\u00e9n\u00e9ficie d\u0027une exposition directe aux clients et d\u00e8s sa premi\u00e8re ann\u00e9e.',
+      'Une structure à taille humaine où chaque collaborateur bénéficie d\'une exposition directe aux clients et dès sa première année.',
   },
   {
     icon: Globe,
     title: 'Innovation',
     description:
-      'Des dossiers transfrontaliers, un r\u00e9seau de correspondants \u00e0 l\u0027\u00e9tranger et des outils legal tech de pointe pour transformer la pratique.',
+      'Des dossiers transfrontaliers, un réseau de correspondants à l\'étranger et des outils legal tech de pointe pour transformer la pratique.',
   },
   {
     icon: Heart,
-    title: 'Diversit\u00e9',
+    title: 'Diversité',
     description:
-      'Une politique de bien-\u00eatre au travail attentive, du t\u00e9l\u00e9travail encadr\u00e9 et une culture de respect des temps de d\u00e9connexion.',
+      'Une politique de bien-être au travail attentive, du télétravail encadré et une culture de respect des temps de déconnexion.',
   },
   {
     icon: TrendingUp,
     title: 'Impact',
     description:
-      'Un parcours de carri\u00e8re transparent de la collaboration \u00e0 l\u0027association, avec des crit\u00e8res d\u0027avancement objectifs et mesurables.',
+      'Un parcours de carrière transparent de la collaboration à l\'association, avec des critères d\'avancement objectifs et mesurables.',
   },
 ]
 
@@ -72,16 +72,16 @@ const valueCards = [
 const testimonials = [
   {
     quote:
-      "J\u0027ai rejoint le cabinet comme collaboratrice de premi\u00e8re ann\u00e9e et j\u0027ai rapidement \u00e9t\u00e9 mise en responsabilit\u00e9 sur des dossiers complexes. La confiance et l\u0027accompagnement sont r\u00e9els.",
+      "J\'ai rejoint le cabinet comme collaboratrice de première année et j\'ai rapidement été mise en responsabilité sur des dossiers complexes. La confiance et l\'accompagnement sont réels.",
     author: 'Camille Chevalier',
-    role: 'Collaboratrice \u2014 Droit Social',
+    role: 'Collaboratrice — Droit Social',
     tenure: '3 ans au cabinet',
   },
   {
     quote:
-      "La culture d\u0027ouverture intellectuelle et la qualit\u00e9 des \u00e9changes internes font de ce cabinet un lieu d\u0027apprentissage exceptionnel pour un jeune avocat.",
+      "La culture d\'ouverture intellectuelle et la qualité des échanges internes font de ce cabinet un lieu d\'apprentissage exceptionnel pour un jeune avocat.",
     author: 'Thomas Laurent',
-    role: 'Counsel \u2014 Droit des Affaires',
+    role: 'Counsel — Droit des Affaires',
     tenure: '6 ans au cabinet',
   },
 ]
@@ -90,62 +90,62 @@ const testimonials = [
 const jobPostings = [
   {
     id: 1,
-    title: 'Associ\u00e9 \u2014 Droit des Affaires (M&A)',
+    title: 'Associé — Droit des Affaires (M&A)',
     tags: ['DROIT DES AFFAIRES', '5+ ANS', 'PARIS'],
     description:
-      'Nous recherchons un associ\u00e9 exp\u00e9riment\u00e9 en droit des soci\u00e9t\u00e9s et M&A pour renforcer notre \u00e9quipe et d\u00e9velopper son portefeuille clients. Vous interviendrez sur des op\u00e9rations de fusion-acquisition, de private equity et de conseil en droit des soci\u00e9t\u00e9s.',
+      'Nous recherchons un associé expérimenté en droit des sociétés et M&A pour renforcer notre équipe et développer son portefeuille clients. Vous interviendrez sur des opérations de fusion-acquisition, de private equity et de conseil en droit des sociétés.',
     requirements: [
-      'Minimum 5 ans d\u0027exp\u00e9rience en M&A',
-      'Formation sup\u00e9rieure en droit des affaires (Barreau de Paris)',
-      'Anglais courant (n\u00e9gociations complexes)',
-      'Capacit\u00e9 \u00e0 d\u00e9velopper un portefeuille clients',
-      'Leadership et esprit d\u0027\u00e9quipe',
+      'Minimum 5 ans d\'expérience en M&A',
+      'Formation supérieure en droit des affaires (Barreau de Paris)',
+      'Anglais courant (négociations complexes)',
+      'Capacité à développer un portefeuille clients',
+      'Leadership et esprit d\'équipe',
     ],
     offer: [
-      'R\u00e9mun\u00e9ration attractive et participation',
-      'Autonomie dans le d\u00e9veloppement commercial',
-      '\u00c9quipe d\u00e9di\u00e9e de collaborateurs',
-      'Visibilit\u00e9 nationale et internationale',
+      'Rémunération attractive et participation',
+      'Autonomie dans le développement commercial',
+      'Équipe dédiée de collaborateurs',
+      'Visibilité nationale et internationale',
     ],
   },
   {
     id: 2,
-    title: 'Collaborateur/trice \u2014 Droit Social',
+    title: 'Collaborateur/trice — Droit Social',
     tags: ['DROIT SOCIAL', '2-5 ANS', 'PARIS'],
     description:
-      'Nous recherchons un(e) collaborateur(trice) avec 2 \u00e0 5 ans d\u0027exp\u00e9rience en droit social pour rejoindre notre \u00e9quipe. Vous accompagnerez nos clients sur les relations individuelles et collectives, la r\u00e9daction de accords et le contentieux prud\u0027homal.',
+      'Nous recherchons un(e) collaborateur(trice) avec 2 à 5 ans d\'expérience en droit social pour rejoindre notre équipe. Vous accompagnerez nos clients sur les relations individuelles et collectives, la rédaction de accords et le contentieux prud\'homal.',
     requirements: [
-      'De 2 \u00e0 5 ans d\u0027exp\u00e9rience en droit social',
-      'Formation sup\u00e9rieure en droit (DES ou Master II appr\u00e9ci\u00e9)',
+      'De 2 à 5 ans d\'expérience en droit social',
+      'Formation supérieure en droit (DES ou Master II apprécié)',
       'Anglais professionnel',
-      'Rigueur, r\u00e9activit\u00e9 et esprit d\u0027\u00e9quipe',
+      'Rigueur, réactivité et esprit d\'équipe',
       'Excellent relationnel client',
     ],
     offer: [
-      'Int\u00e9gration au sein d\u0027une \u00e9quipe dynamique',
-      'Responsabilit\u00e9 rapide sur les dossiers',
+      'Intégration au sein d\'une équipe dynamique',
+      'Responsabilité rapide sur les dossiers',
       'Formation continue et veille juridique',
       'Package attractif selon profil',
     ],
   },
   {
     id: 3,
-    title: 'Stagiaire \u2014 Contentieux',
+    title: 'Stagiaire — Contentieux',
     tags: ['CONTENTIEUX', 'STAGE 6 MOIS', 'PARIS'],
     description:
-      'Nous proposons un stage de 6 mois au sein de notre d\u00e9partement contentieux. Vous participerez activement \u00e0 la pr\u00e9paration des dossiers, la r\u00e9daction d\u0027actes et le suivi des proc\u00e9dures.',
+      'Nous proposons un stage de 6 mois au sein de notre département contentieux. Vous participerez activement à la préparation des dossiers, la rédaction d\'actes et le suivi des procédures.',
     requirements: [
-      '\u00c9tudiant(e) en Master 2 ou \u00e9l\u00e8ve-avocat(e)',
-      'Int\u00e9r\u00eat prononc\u00e9 pour le contentieux',
-      'Rigueur et sens de l\u0027analyse',
-      'Bon niveau d\u0027anglais',
-      'Stage conventionn\u00e9 obligatoire',
+      'Étudiant(e) en Master 2 ou élève-avocat(e)',
+      'Intérêt prononcé pour le contentieux',
+      'Rigueur et sens de l\'analyse',
+      'Bon niveau d\'anglais',
+      'Stage conventionné obligatoire',
     ],
     offer: [
-      'Encadrement par des avocats exp\u00e9riment\u00e9s',
+      'Encadrement par des avocats expérimentés',
       'Participation aux audiences',
       'Formation pratique sur le terrain',
-      'Possibilit\u00e9 d\u0027embauche \u00e0 l\u0027issue',
+      'Possibilité d\'embauche à l\'issue',
     ],
   },
   {
@@ -153,19 +153,19 @@ const jobPostings = [
     title: 'Legal Tech Analyst',
     tags: ['LEGAL TECH', '2+ ANS', 'PARIS'],
     description:
-      'Nous recherchons un Legal Tech Analyst pour accompagner notre transformation digitale. Vous serez en charge de d\u00e9ployer et optimiser nos outils technologiques au service de l\u0027excellence juridique.',
+      'Nous recherchons un Legal Tech Analyst pour accompagner notre transformation digitale. Vous serez en charge de déployer et optimiser nos outils technologiques au service de l\'excellence juridique.',
     requirements: [
-      '2+ ans d\u0027exp\u00e9rience en legal tech ou IT juridique',
+      '2+ ans d\'expérience en legal tech ou IT juridique',
       'Connaissance des outils de contract management et eDiscovery',
-      'Comp\u00e9tences en programmation (Python, SQL) appr\u00e9ci\u00e9es',
-      'Sens de l\u0027innovation et capacit\u00e9 de formation',
+      'Compétences en programmation (Python, SQL) appréciées',
+      'Sens de l\'innovation et capacité de formation',
       'Anglais professionnel',
     ],
     offer: [
       'Poste hybride tech / droit',
-      'Formation aux derni\u00e8res technologies',
+      'Formation aux dernières technologies',
       'Environnement stimulant et innovant',
-      '\u00c9volution vers des postes de conseil legal tech',
+      'Évolution vers des postes de conseil legal tech',
     ],
   },
 ]
@@ -176,25 +176,25 @@ const careerSteps = [
     step: 1,
     title: 'Candidature',
     description:
-      'Envoyez-nous votre CV et lettre de motivation. Notre \u00e9quipe des ressources humaines examine chaque dossier avec attention et vous recontacte sous 48h.',
+      'Envoyez-nous votre CV et lettre de motivation. Notre équipe des ressources humaines examine chaque dossier avec attention et vous recontacte sous 48h.',
   },
   {
     step: 2,
     title: 'Entretiens',
     description:
-      'Rencontrez nos \u00e9quipes lors de plusieurs entretiens. Nous \u00e9valuons vos comp\u00e9tences techniques, votre personnalit\u00e9 et votre adh\u00e9sion \u00e0 nos valeurs.',
+      'Rencontrez nos équipes lors de plusieurs entretiens. Nous évaluons vos compétences techniques, votre personnalité et votre adhésion à nos valeurs.',
   },
   {
     step: 3,
-    title: 'Int\u00e9gration',
+    title: 'Intégration',
     description:
-      'B\u00e9n\u00e9ficiez d\u0027un programme d\u0027int\u00e9gration structur\u00e9 : formation interne, parrainage par un associ\u00e9 et premiers dossiers encadr\u00e9s.',
+      'Bénéficiez d\'un programme d\'intégration structuré : formation interne, parrainage par un associé et premiers dossiers encadrés.',
   },
   {
     step: 4,
-    title: 'D\u00e9veloppement',
+    title: 'Développement',
     description:
-      '\u00c9voluez vers l\u0027autonomie, puis vers des postes de counsel et d\u0027associ\u00e9 avec un parcours transparent et des crit\u00e8res objectifs.',
+      'Évoluez vers l\'autonomie, puis vers des postes de counsel et d\'associé avec un parcours transparent et des critères objectifs.',
   },
 ]
 
